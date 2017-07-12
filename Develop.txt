@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Atif
-=======
 Suyash
->>>>>>> 81a23628113191cad144b3fff8e42fc4b60bafbe
